@@ -13,6 +13,8 @@ I am a third year <b>Education(Science)</b> undergraduate majoring in math and p
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
+<p>
+  
 I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
 
 * [Personal Blog](https://vikshan.me)
@@ -20,24 +22,26 @@ I am highly interested in growing my knowledge in computer science, really passi
 
 Note: Please don't use my personal contact info for support, see respective repository issues/forums for support. Support requests will be ignored.
 
-<h3>Little facts about me 🧑</h3>
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+  <img align="right" width="45%" src="https://i.imgflip.com/65efzo.gif"/>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on discord.js bots.
 - 👯 I’m looking to collaborate on open-source projects esp discord bot development.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - 🌱 I’m currently learning javascript
-- 🤔 I’m looking for help with discord.js
+- 🤝 I’m looking for help with **finding projects to contribute to!**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: hold up, ngs
-<br>
-
----
-
-<details>
-<summary>
+- ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
+- 🌱 I’m currently learning **everything** 🤓
+- 💬 Ask me about **open source, web development, and community management**
+  
+  
+  
+  <br>
   ✨ Tech stack currently using:
-</summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
@@ -45,13 +49,9 @@ Note: Please don't use my personal contact info for support, see respective repo
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
   
-</details>
-<br>
-
-<details>
-<summary>
+  
+  <br>
   🌱 Looking forward to learn:
-</summary>
    <br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
@@ -73,46 +73,28 @@ Note: Please don't use my personal contact info for support, see respective repo
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 </details>
-<br>
+  
+</p>
 
----
+## 🔥 Github Stats
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
 <p align="center">
   <a href="https://github.com/vikkshan">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/vikkshan">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikkshan&theme=radical&border=7F3FBF&background=0D1117" alt="Vikshan's GitHub streak"/>
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikkshan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Vikshan" /></p>
-</details>
 
----
+<a> 
+    <a href="https://github.com/vikkshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vikkshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+  </a>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vikkshan/vikkshan/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oh3ky2rbzjqepcdml5pyirymj4&count=5&width=1000" alt="Spotify recently played"  />
 </div>
-
-###
 
 <h4> Connect and support me🤝: <h4>
   </hr>
