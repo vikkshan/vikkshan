@@ -25,7 +25,7 @@ Note: Please don't use my personal contact info for support, see respective repo
 <div>
 <details>
   <summary>🧑 More about me</summary>
-  <img align="right" width="45%" src="https://i.imgflip.com/65efzo.gif"/>
+  <img align="right" width="38%" height="500" src="https://i.imgflip.com/65efzo.gif"/>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on discord.js bots.
