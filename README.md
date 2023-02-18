@@ -92,9 +92,7 @@ Note: Please don't use my personal contact info for support, see respective repo
 
 <a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oh3ky2rbzjqepcdml5pyirymj4&count=5&width=1000" alt="Spotify recently played"  />
-</div>
+<a href="https://open.spotify.com/user/31oh3ky2rbzjqepcdml5pyirymj4?si=f9aa816e6f064d01"><img alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31oh3ky2rbzjqepcdml5pyirymj4&count=5&width=1000" /></a>
 
 <h4> Connect and support me🤝: <h4>
   </hr>
@@ -128,7 +126,6 @@ Note: Please don't use my personal contact info for support, see respective repo
   <a href="https://github.com/sponsors/vikkshan">
     <img align="left" alt="Vikshan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
   </a>
+  <p align="right" > <img src="https://komarev.com/ghpvc/?username=vikkshan&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
   <br>
-  
 <p align="right" > Created with 🖤 by <a href="https://github.com/vikkshan">Vikshan</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=vikkshan&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
