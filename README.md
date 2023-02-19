@@ -3,7 +3,7 @@
   <a href="https://github.com/vikkshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 <a href="https://discord.gg/Dwnf3vQSz4">
-  <img src="media/brunettegirl.jpg" width="100%" style="border-radius: 15px;" />
+  <img src="media/brunettegirl.jpg" width="100%" style="border-radius: 15px;" height="auto"/>
 </a>
 
 <p align="center">
@@ -25,19 +25,18 @@
     Heys👋
     <br>
     I'm <b>Vikshan Bossman</b>, a Kenyan software developer and enthusiast about Discord and breaking things!
-I am a third year <b>Education(Science)</b> undergraduate majoring in math and physics, ironic, right? I study in <a href="https://www.ku.ac.ke"> <b>Kenyatta University</b>, Kenya</a>.
+    I am a third year <b>Education(Science)</b> undergraduate majoring in math and physics, ironic, right? I study in <a href="https://www.ku.ac.ke"> <b>Kenyatta University</b>, Kenya</a>.
+  </em>
 </p>
 
-<p>
-  
 I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
-
-* [Personal Blog](https://vikshan.me)
-* Email: vikshan0@icloud.com
-  <br>
-
-  </br>
-<div>
+  * [Personal Blog](https://vikshan.me)
+  * Email: vikshan0@icloud.com
+<br>
+<br>
+<br>
+<br>
+<br>
 <details>
   <summary>🧑 More about me</summary>
   <img style="transform: scaleX(-1);" align="right" width="38%" src="media/catgirl.png"/>
@@ -51,22 +50,18 @@ I am highly interested in growing my knowledge in computer science, really passi
 - ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
 - 🌱 I’m currently learning **everything** 🤓
 - 💬 Ask me about **open source, web development, and community management**
-  
-  
-  
-  <br>
-  ✨ Tech stack currently using:
-   <br>
+
+
+<h2>✨ <u>Tech stack currently using:</u></h2>
+<br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-  
-  
-  <br>
-  🌱 Looking forward to learn:
-   <br>
+
+<h2>🌱 <u>Looking forward to learn:</u></h2>
+<br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
@@ -78,7 +73,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
 <code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
+<code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
@@ -87,10 +82,12 @@ I am highly interested in growing my knowledge in computer science, really passi
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 </details>
-  
-</p>
+<br>
+<br>
 
-## 🔥 Github Stats
+------
+
+<h1 style="text-align: center; font-weight: bold;">🔥 Github Stats</h1>
 
 <p align="center">
   <a href="https://github.com/vikkshan">
