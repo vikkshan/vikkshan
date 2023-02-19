@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Dwnf3vQSz4" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/vikshan"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/vikshan"><img width="32px" alt="Dev.to" title="Vikshan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/vikshan"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -43,7 +43,6 @@ I am highly interested in growing my knowledge in computer science, really passi
 - 🔭 I’m currently working on discord.js bots.
 - 👯 I’m looking to collaborate on open-source projects esp discord bot development.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- 🌱 I’m currently learning javascript
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
