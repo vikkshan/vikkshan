@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=6" /></a>
+<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=6&width=350" /></a>
 <p align="center">
   <em>
     Heys👋
