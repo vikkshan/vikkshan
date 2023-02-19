@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-
+<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=6" /></a>
 <p align="center">
   <em>
     Heys👋
@@ -91,8 +91,6 @@ Note: Please don't use my personal contact info for support, see respective repo
   </a>
 
 <a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
-
-<a href="https://open.spotify.com/user/31oh3ky2rbzjqepcdml5pyirymj4?si=f9aa816e6f064d01"><img alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31oh3ky2rbzjqepcdml5pyirymj4&count=5&width=1000" /></a>
 
 <h4> Connect with me 🤝 and support me :heart: :<h4>
   </hr>
