@@ -102,6 +102,12 @@ I am highly interested in growing my knowledge in computer science, really passi
   </a>
 
 <a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<br>
+<p align="center">
+<a href="https://github.com/vikkshan">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vikkshan&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  </p>
 
 <h4> Connect with me 🤝 and support me :heart: :<h4>
   </hr>
