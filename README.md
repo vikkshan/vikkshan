@@ -1,16 +1,28 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vikshan</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, meet Vikshan</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/vikkshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=6&width=350" /></a>
+<a href="https://discord.gg/Dwnf3vQSz4"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://www.youtube.com/vort3chs"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/VORT3CHS"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/Dwnf3vQSz4" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/vikshan"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/vikshan"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/vikshan"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
+<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=5&width=350" /></a>
 <p align="center">
   <em>
     Heys👋
-    My name is <b>Vikshan Bossman</b>, a Kenyan software developer and enthusiast about Discord and breaking things!
+    <br>
+    I'm <b>Vikshan Bossman</b>, a Kenyan software developer and enthusiast about Discord and breaking things!
 I am a third year <b>Education(Science)</b> undergraduate majoring in math and physics, ironic, right? I study in <a href="https://www.ku.ac.ke"> <b>Kenyatta University</b>, Kenya</a>.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <p>
@@ -19,11 +31,13 @@ I am highly interested in growing my knowledge in computer science, really passi
 
 * [Personal Blog](https://vikshan.me)
 * Email: vikshan0@icloud.com
+  <br>
 
+  </br>
 <div>
 <details>
   <summary>🧑 More about me</summary>
-  <img align="right" width="38%" src="https://i.imgflip.com/65efzo.gif"/>
+  <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on discord.js bots.
