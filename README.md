@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/vikkshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<a href="https://discord.gg/Dwnf3vQSz4"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/Dwnf3vQSz4"><img src="https://c4.wallpaperflare.com/wallpaper/51/130/401/brunettes-dress-blue-eyes-tears-thigh-highs-lolicon-kotobuki-tsumugi-game-cg-blush-midori-anime-girl-abstract-3d-and-cg-hd-art-wallpaper-preview.jpg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/vort3chs"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -37,7 +37,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 <div>
 <details>
   <summary>🧑 More about me</summary>
-  <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+  <img align="right" width="38%" src="https://github.com/vikkshan/vikkshan/blob/main/media/imgbin_lolicon-anime-catgirl-moe-png.png"/>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on discord.js bots.
