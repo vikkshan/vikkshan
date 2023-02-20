@@ -39,7 +39,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 <br>
 <details>
   <summary>🧑 More about me</summary>
-  <img style="transform: scaleX(-1);" align="right" width="38%" src="media/catgirl.png"/>
+  <img align="right" width="38%" src="media/catgirl.png"/>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on discord.js bots.
@@ -96,18 +96,22 @@ I am highly interested in growing my knowledge in computer science, really passi
 </p>
 
 <a> 
-    <a href="https://github.com/vikkshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vikkshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+  <a href="https://github.com/vikkshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-
-<a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
-<br>
-<p align="center">
-<a href="https://github.com/vikkshan">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vikkshan&column=8&theme=gruvbox&no-frame=true"/>
+  <a href="https://github.com/vikkshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <br/>
 </a>
-  </p>
+
+<a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" />
+</a>
+
+<br>
+<p style="text-align:center;">
+  <a href="https://github.com/vikkshan">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vikkshan&column=8&theme=gruvbox&no-frame=true" style="display:block; margin:auto;"/>
+  </a>
+</p>
 
 <h4> Connect with me 🤝 and support me :heart: :<h4>
   </hr>
