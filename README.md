@@ -96,12 +96,35 @@ I am highly interested in growing my knowledge in computer science, really passi
 </p>
 
 <a> 
-  <a href="https://github.com/vikkshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/vikkshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
+  <div class="stats-container">
+    <a href="https://github.com/vikkshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vikkshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+    <a href="https://github.com/vikkshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vikkshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+  </div>
   <br/>
 </a>
+
+<style>
+.stats-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.stats-container a {
+  margin: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .stats-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+</style>
+
 
 <a href="https://github.com/vikkshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikkshan&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" />
 </a>
